@@ -2,9 +2,9 @@
 
 Sou o **Leonardo Castro Teodoro**, natural de São Paulo. Gosto de tecnologia, sou proativo e estou sempre estudando algo novo.
 
-- 💻 Apaixonado por tecnologia
-- 🚀 Proativo, gosto de colocar a mão na massa
-- 📚 Sempre estudando e aprendendo coisas novas
+- Apaixonado por programação !
+- Proativo, gosto de colocar a mão na massa
+- Sempre estudando e aprendendo coisas novas
 
 <br>
 
@@ -12,7 +12,7 @@ Sou o **Leonardo Castro Teodoro**, natural de São Paulo. Gosto de tecnologia, s
 
 <br>
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@ Sou o **Leonardo Castro Teodoro**, natural de São Paulo. Gosto de tecnologia, s
 
 <br>
 
-### 🐍 Contribuições
+### Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" />
