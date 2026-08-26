@@ -28,5 +28,5 @@ Sou o **Leonardo Castro Teodoro**, natural de São Paulo. Gosto de tecnologia, s
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg" />
-  <img alt="jogo da cobrinha com o grafico de contribuicoes" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg" />
+  <img alt="" />
 </picture>
